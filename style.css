@@ -80,7 +80,6 @@ main p {
   padding: 19px 29px;
   border: none;
   border-radius: 6px 0 0 6px;
-  cursor: pointer;
   float: left;
   font-size: 12px;
   width: 296px;
@@ -91,7 +90,6 @@ main p {
   border: none;
   background-color: #F3BA00;
   border-radius: 0 6px 6px 0;
-  cursor: pointer;
   color: #ffffff;
   font-size: 12px;
   width: 112px;
