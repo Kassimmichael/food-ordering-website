@@ -411,13 +411,20 @@ footer img:hover {
     text-align: center;
   }
 
+  .kitchen-section h2 {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+
   .btn input {
     padding: 8px;
     font-size: 8px 12px;
   }
 
   .filters select {
-    padding: 5px 8px;
+    padding: 3px 8px;
   }
+
+
 
 }
