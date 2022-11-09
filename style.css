@@ -420,10 +420,4 @@ footer img:hover {
     padding: 5px 8px;
   }
 
-  .product {
-    display: grid;
-    grid-template-columns: auto;
-    flex-direction: column;
-  }
-
 }
