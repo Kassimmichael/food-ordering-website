@@ -368,8 +368,62 @@ footer img:hover {
 }
 
 @media screen and (max-width: 400px) {
-  nav {
-    
-    
+  .menu ul {
+    display: none;
   }
+
+  main {
+    text-align: center;
+    width: 100%;
+    flex-direction: column;
+  }
+
+  main h1 {
+    font-size: 45px;
+    line-height: 1.2;
+  }
+
+  main p {
+    font-size: 16px;
+  }
+
+  .search {
+    text-align: center;
+    margin-left: 50px;
+  }
+
+  .search input {
+    width: 150px;
+    padding: 10px;
+  }
+
+  .search button {
+    width: 70px;
+    padding: 8.5px;
+  }
+
+  .cooking img {
+    width: 100%;
+    margin-top: 20px;
+  }
+
+  .kitchen-section {
+    text-align: center;
+  }
+
+  .btn input {
+    padding: 8px;
+    font-size: 8px 12px;
+  }
+
+  .filters select {
+    padding: 5px 8px;
+  }
+
+  .product {
+    display: grid;
+    grid-template-columns: auto;
+    flex-direction: column;
+  }
+
 }
